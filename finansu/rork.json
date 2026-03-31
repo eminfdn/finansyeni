@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "YatırımPro",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "YatırımCı",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
